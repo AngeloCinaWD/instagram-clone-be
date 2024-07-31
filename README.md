@@ -13,4 +13,10 @@
 
 [SSR - Server-Side Rendering](https://laravel.com/docs/10.x/starter-kits#breeze-and-inertia) php artisan breeze:install vue --ssr
 
+[vue-material-design-icons](https://www.npmjs.com/package/vue-material-design-icons)
+
+[vue3-carousel](https://www.npmjs.com/package/vue3-carousel)
+
+
+
 
