@@ -3,7 +3,7 @@
 ## Run:
 
     ### composer install
-    ### npm installs
+    ### npm install
     ### php artisan serve
     ### npm run dev
 
