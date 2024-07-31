@@ -8,6 +8,7 @@
     ### npm run dev
 
 [thanksTo](https://www.youtube.com/watch?v=MjkamZQJY_8&ab_channel=JohnWeeksDev)
+[thanksTo2](https://github.com/John-Weeks-Dev/instagram-clone/blob/master/package.json)
 
 [Laravel Breeze](https://laravel.com/docs/10.x/starter-kits#laravel-breeze)
 
